@@ -1,1 +1,13 @@
 echo welcome bash scripting
+
+#-e enable color
+# \-e[colm to enable color
+# \e [0m - to disable color
+
+echo -e "\-e[31 welcome in Red Color\e[0m"
+echo -e "\-e[32 welcome in cream Color\e[0m"
+echo -e "\-e[33 welcome in yellow Color\e[0m"
+echo -e "\-e[34 welcome in mice Color\e[0m"
+echo -e "\-e[35 welcome in magenta Color\e[0m"
+
+
