@@ -1,1 +1,1 @@
-# pavani73 learning bash hell script
+# pavani73 learning bash shell script
